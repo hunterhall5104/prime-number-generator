@@ -1,5 +1,5 @@
 #Prime numbers up to x
-num = int(input("Input number of prime numbers: "))
+num = int(input("Input max number: "))
 lst_of_primes = [1, ]
 prime = True
 for x in range(2, num):
